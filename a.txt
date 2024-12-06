@@ -1,0 +1,280 @@
+Step 1: Relation: Job
+  Lawyer: 0.4472
+  Engineer: 0.2455
+  Designer: 0.1227
+  Doctor: 0.1178
+  Teacher: 0.0669
+
+Step 2: Relation: Job
+  Doctor: 0.9601
+  Designer: 0.0243
+  Engineer: 0.0106
+  Teacher: 0.0036
+  Lawyer: 0.0013
+
+Step 3: Relation: Job
+  Designer: 0.7119
+  Doctor: 0.2218
+  Engineer: 0.0310
+  Teacher: 0.0230
+  Lawyer: 0.0123
+
+Step 4: Relation: Job
+  Lawyer: 0.9203
+  Teacher: 0.0595
+  Doctor: 0.0148
+  Designer: 0.0047
+  Engineer: 0.0007
+
+Step 5: Relation: Job
+  Teacher: 0.4122
+  Doctor: 0.2479
+  Designer: 0.1463
+  Engineer: 0.0985
+  Lawyer: 0.0951
+
+Step 6: Relation: Job
+  Lawyer: 0.5567
+  Engineer: 0.1705
+  Doctor: 0.1691
+  Designer: 0.0897
+  Teacher: 0.0140
+
+Step 7: Relation: Job
+  Doctor: 0.9646
+  Designer: 0.0201
+  Engineer: 0.0099
+  Teacher: 0.0041
+  Lawyer: 0.0013
+
+Step 8: Relation: Job
+  Designer: 0.6892
+  Doctor: 0.2517
+  Engineer: 0.0300
+  Teacher: 0.0192
+  Lawyer: 0.0099
+
+Step 9: Relation: Job
+  Lawyer: 0.9393
+  Teacher: 0.0389
+  Doctor: 0.0176
+  Designer: 0.0036
+  Engineer: 0.0006
+
+Step 10: Relation: Job
+  Teacher: 0.4122
+  Doctor: 0.2479
+  Designer: 0.1463
+  Engineer: 0.0985
+  Lawyer: 0.0951
+
+Step 11: Relation: ReadBooks
+  Harry Potter: 0.9919
+  The Little Prince: 0.0061
+  The Lord of the Rings: 0.0016
+  A Bear Called Paddington: 0.0003
+  The Chronicles of Narnia: 0.0002
+
+Step 12: Relation: Health Status
+  Hypertensive: 0.6854
+  Healthy: 0.2965
+  Injured: 0.0097
+  Diabetic: 0.0071
+  Allergic: 0.0012
+
+Step 13: Relation: VisitedPlaces
+  Cairo: 0.7547
+  Paris: 0.0900
+  Rome: 0.0867
+  New York: 0.0579
+  Seoul: 0.0107
+
+Step 14: Relation: CurrentLocation
+  Home: 0.8650
+  Office: 0.0870
+  Library: 0.0305
+  Station: 0.0156
+  Restaurant: 0.0019
+
+Step 15: Relation: LearnedLanguages
+  French: 0.8947
+  English: 0.0720
+  German: 0.0165
+  Japanese: 0.0121
+  Spanish: 0.0046
+
+Step 16: Relation: ReadBooks
+  The Little Prince: 0.6987
+  The Lord of the Rings: 0.2182
+  The Chronicles of Narnia: 0.0488
+  A Bear Called Paddington: 0.0312
+  Harry Potter: 0.0030
+
+Step 17: Relation: Health Status
+  Healthy: 0.4247
+  Injured: 0.2987
+  Hypertensive: 0.2219
+  Allergic: 0.0390
+  Diabetic: 0.0156
+
+Step 18: Relation: VisitedPlaces
+  Paris: 0.8910
+  New York: 0.0563
+  Seoul: 0.0299
+  Cairo: 0.0122
+  Rome: 0.0106
+
+Step 19: Relation: CurrentLocation
+  Home: 0.9727
+  Library: 0.0146
+  Restaurant: 0.0071
+  Office: 0.0053
+  Station: 0.0003
+
+Step 20: Relation: LearnedLanguages
+  French: 0.8947
+  English: 0.0720
+  German: 0.0165
+  Japanese: 0.0121
+  Spanish: 0.0046
+
+Step 21: Relation: VisitedPlaces
+  Paris: 0.6107
+  Cairo: 0.1884
+  New York: 0.1002
+  Rome: 0.0806
+  Seoul: 0.0201
+
+Step 22: Relation: VisitedPlaces
+  New York: 0.9212
+  Rome: 0.0429
+  Paris: 0.0248
+  Cairo: 0.0071
+  Seoul: 0.0041
+
+Step 23: Relation: VisitedPlaces
+  Seoul: 0.5446
+  New York: 0.4147
+  Rome: 0.0377
+  Cairo: 0.0027
+  Paris: 0.0003
+
+Step 24: Relation: VisitedPlaces
+  Paris: 0.9999
+  New York: 0.0001
+  Rome: 0.0000
+  Cairo: 0.0000
+  Seoul: 0.0000
+
+Step 25: Relation: VisitedPlaces
+  Rome: 0.4578
+  New York: 0.3939
+  Paris: 0.0987
+  Cairo: 0.0366
+  Seoul: 0.0130
+
+Step 26: Relation: VisitedPlaces
+  Rome: 0.4578
+  New York: 0.3939
+  Paris: 0.0987
+  Cairo: 0.0366
+  Seoul: 0.0130
+
+Step 27: Relation: VisitedPlaces
+  Rome: 0.4578
+  New York: 0.3939
+  Paris: 0.0987
+  Cairo: 0.0366
+  Seoul: 0.0130
+
+Step 28: Relation: VisitedPlaces
+  Rome: 0.4578
+  New York: 0.3939
+  Paris: 0.0987
+  Cairo: 0.0366
+  Seoul: 0.0130
+
+Step 29: Relation: VisitedPlaces
+  Rome: 0.4578
+  New York: 0.3939
+  Paris: 0.0987
+  Cairo: 0.0366
+  Seoul: 0.0130
+
+Step 30: Relation: VisitedPlaces
+  Rome: 0.4578
+  New York: 0.3939
+  Paris: 0.0987
+  Cairo: 0.0366
+  Seoul: 0.0130
+
+Step 31: Relation: Health Status
+  Healthy: 0.5898
+  Hypertensive: 0.1895
+  Injured: 0.0987
+  Diabetic: 0.0951
+  Allergic: 0.0268
+
+Step 32: Relation: Health Status
+  Healthy: 0.5139
+  Allergic: 0.2231
+  Injured: 0.1997
+  Diabetic: 0.0459
+  Hypertensive: 0.0174
+
+Step 33: Relation: Health Status
+  Diabetic: 0.9271
+  Healthy: 0.0500
+  Injured: 0.0152
+  Hypertensive: 0.0040
+  Allergic: 0.0037
+
+Step 34: Relation: Health Status
+  Healthy: 0.9642
+  Injured: 0.0145
+  Allergic: 0.0123
+  Diabetic: 0.0071
+  Hypertensive: 0.0019
+
+Step 35: Relation: Health Status
+  Injured: 0.7205
+  Healthy: 0.2539
+  Diabetic: 0.0114
+  Hypertensive: 0.0073
+  Allergic: 0.0069
+
+Step 36: Relation: Health Status
+  Injured: 0.7205
+  Healthy: 0.2539
+  Diabetic: 0.0114
+  Hypertensive: 0.0073
+  Allergic: 0.0069
+
+Step 37: Relation: Health Status
+  Injured: 0.7205
+  Healthy: 0.2539
+  Diabetic: 0.0114
+  Hypertensive: 0.0073
+  Allergic: 0.0069
+
+Step 38: Relation: Health Status
+  Injured: 0.7205
+  Healthy: 0.2539
+  Diabetic: 0.0114
+  Hypertensive: 0.0073
+  Allergic: 0.0069
+
+Step 39: Relation: Health Status
+  Injured: 0.7205
+  Healthy: 0.2539
+  Diabetic: 0.0114
+  Hypertensive: 0.0073
+  Allergic: 0.0069
+
+Step 40: Relation: Health Status
+  Injured: 0.7205
+  Healthy: 0.2539
+  Diabetic: 0.0114
+  Hypertensive: 0.0073
+  Allergic: 0.0069
+

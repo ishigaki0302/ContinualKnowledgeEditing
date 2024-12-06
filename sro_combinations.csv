@@ -1,0 +1,151 @@
+Pattern,Subject (s),Relation (r),Object (o)
+Skill_pattern_1,Ryoma Ishigaki,Skill,Python
+Skill_pattern_1,Haruto Yamamoto,Skill,SQL
+Skill_pattern_1,Aoi Tanaka,Skill,Java
+Skill_pattern_1,Riku Nakamura,Skill,Excel
+Skill_pattern_1,Saki Kuroda,Skill,HTML
+Skill_pattern_2,Ryoma Ishigaki,Skill,Python
+Skill_pattern_2,Ryoma Ishigaki,Skill,SQL
+Skill_pattern_2,Ryoma Ishigaki,Skill,Java
+Skill_pattern_2,Ryoma Ishigaki,Skill,Excel
+Skill_pattern_2,Ryoma Ishigaki,Skill,HTML
+Skill_pattern_3,Ryoma Ishigaki,Skill,Python
+Skill_pattern_3,Ryoma Ishigaki,Skill,SQL
+Skill_pattern_3,Ryoma Ishigaki,Skill,Java
+Skill_pattern_3,Ryoma Ishigaki,Skill,Excel
+Skill_pattern_3,Ryoma Ishigaki,Skill,HTML
+Hobbies_pattern_1,Ryoma Ishigaki,Hobbies,Reading
+Hobbies_pattern_1,Haruto Yamamoto,Hobbies,Hiking
+Hobbies_pattern_1,Aoi Tanaka,Hobbies,Cooking
+Hobbies_pattern_1,Riku Nakamura,Hobbies,Gaming
+Hobbies_pattern_1,Saki Kuroda,Hobbies,Photography
+Hobbies_pattern_2,Ryoma Ishigaki,Hobbies,Reading
+Hobbies_pattern_2,Ryoma Ishigaki,Hobbies,Hiking
+Hobbies_pattern_2,Ryoma Ishigaki,Hobbies,Cooking
+Hobbies_pattern_2,Ryoma Ishigaki,Hobbies,Gaming
+Hobbies_pattern_2,Ryoma Ishigaki,Hobbies,Photography
+Hobbies_pattern_3,Ryoma Ishigaki,Hobbies,Reading
+Hobbies_pattern_3,Ryoma Ishigaki,Hobbies,Hiking
+Hobbies_pattern_3,Ryoma Ishigaki,Hobbies,Cooking
+Hobbies_pattern_3,Ryoma Ishigaki,Hobbies,Gaming
+Hobbies_pattern_3,Ryoma Ishigaki,Hobbies,Photography
+Awards_pattern_1,Ryoma Ishigaki,Awards,MVP
+Awards_pattern_1,Haruto Yamamoto,Awards,Best Paper
+Awards_pattern_1,Aoi Tanaka,Awards,Innovation Award
+Awards_pattern_1,Riku Nakamura,Awards,Employee of the Month
+Awards_pattern_1,Saki Kuroda,Awards,Top Sales
+Awards_pattern_2,Ryoma Ishigaki,Awards,MVP
+Awards_pattern_2,Ryoma Ishigaki,Awards,Best Paper
+Awards_pattern_2,Ryoma Ishigaki,Awards,Innovation Award
+Awards_pattern_2,Ryoma Ishigaki,Awards,Employee of the Month
+Awards_pattern_2,Ryoma Ishigaki,Awards,Top Sales
+Awards_pattern_3,Ryoma Ishigaki,Awards,MVP
+Awards_pattern_3,Ryoma Ishigaki,Awards,Best Paper
+Awards_pattern_3,Ryoma Ishigaki,Awards,Innovation Award
+Awards_pattern_3,Ryoma Ishigaki,Awards,Employee of the Month
+Awards_pattern_3,Ryoma Ishigaki,Awards,Top Sales
+Books Read_pattern_1,Ryoma Ishigaki,Books Read,1984
+Books Read_pattern_1,Haruto Yamamoto,Books Read,Sapiens
+Books Read_pattern_1,Aoi Tanaka,Books Read,Dune
+Books Read_pattern_1,Riku Nakamura,Books Read,Hamlet
+Books Read_pattern_1,Saki Kuroda,Books Read,Frankenstein
+Books Read_pattern_2,Ryoma Ishigaki,Books Read,1984
+Books Read_pattern_2,Ryoma Ishigaki,Books Read,Sapiens
+Books Read_pattern_2,Ryoma Ishigaki,Books Read,Dune
+Books Read_pattern_2,Ryoma Ishigaki,Books Read,Hamlet
+Books Read_pattern_2,Ryoma Ishigaki,Books Read,Frankenstein
+Books Read_pattern_3,Ryoma Ishigaki,Books Read,1984
+Books Read_pattern_3,Ryoma Ishigaki,Books Read,Sapiens
+Books Read_pattern_3,Ryoma Ishigaki,Books Read,Dune
+Books Read_pattern_3,Ryoma Ishigaki,Books Read,Hamlet
+Books Read_pattern_3,Ryoma Ishigaki,Books Read,Frankenstein
+Travel Destinations_pattern_1,Ryoma Ishigaki,Travel Destinations,Paris
+Travel Destinations_pattern_1,Haruto Yamamoto,Travel Destinations,New York
+Travel Destinations_pattern_1,Aoi Tanaka,Travel Destinations,Rome
+Travel Destinations_pattern_1,Riku Nakamura,Travel Destinations,Seoul
+Travel Destinations_pattern_1,Saki Kuroda,Travel Destinations,Cairo
+Travel Destinations_pattern_2,Ryoma Ishigaki,Travel Destinations,Paris
+Travel Destinations_pattern_2,Ryoma Ishigaki,Travel Destinations,New York
+Travel Destinations_pattern_2,Ryoma Ishigaki,Travel Destinations,Rome
+Travel Destinations_pattern_2,Ryoma Ishigaki,Travel Destinations,Seoul
+Travel Destinations_pattern_2,Ryoma Ishigaki,Travel Destinations,Cairo
+Travel Destinations_pattern_3,Ryoma Ishigaki,Travel Destinations,Paris
+Travel Destinations_pattern_3,Ryoma Ishigaki,Travel Destinations,New York
+Travel Destinations_pattern_3,Ryoma Ishigaki,Travel Destinations,Rome
+Travel Destinations_pattern_3,Ryoma Ishigaki,Travel Destinations,Seoul
+Travel Destinations_pattern_3,Ryoma Ishigaki,Travel Destinations,Cairo
+Health Status_pattern_1,Ryoma Ishigaki,Health Status,Healthy
+Health Status_pattern_1,Haruto Yamamoto,Health Status,Injured
+Health Status_pattern_1,Aoi Tanaka,Health Status,Allergic
+Health Status_pattern_1,Riku Nakamura,Health Status,Diabetic
+Health Status_pattern_1,Saki Kuroda,Health Status,Hypertensive
+Health Status_pattern_2,Ryoma Ishigaki,Health Status,Healthy
+Health Status_pattern_2,Ryoma Ishigaki,Health Status,Injured
+Health Status_pattern_2,Ryoma Ishigaki,Health Status,Allergic
+Health Status_pattern_2,Ryoma Ishigaki,Health Status,Diabetic
+Health Status_pattern_2,Ryoma Ishigaki,Health Status,Hypertensive
+Health Status_pattern_3,Ryoma Ishigaki,Health Status,Healthy
+Health Status_pattern_3,Ryoma Ishigaki,Health Status,Injured
+Health Status_pattern_3,Ryoma Ishigaki,Health Status,Allergic
+Health Status_pattern_3,Ryoma Ishigaki,Health Status,Diabetic
+Health Status_pattern_3,Ryoma Ishigaki,Health Status,Hypertensive
+Job_pattern_1,Ryoma Ishigaki,Job,Engineer
+Job_pattern_1,Haruto Yamamoto,Job,Doctor
+Job_pattern_1,Aoi Tanaka,Job,Teacher
+Job_pattern_1,Riku Nakamura,Job,Designer
+Job_pattern_1,Saki Kuroda,Job,Lawyer
+Job_pattern_2,Ryoma Ishigaki,Job,Engineer
+Job_pattern_2,Ryoma Ishigaki,Job,Doctor
+Job_pattern_2,Ryoma Ishigaki,Job,Teacher
+Job_pattern_2,Ryoma Ishigaki,Job,Designer
+Job_pattern_2,Ryoma Ishigaki,Job,Lawyer
+Job_pattern_3,Ryoma Ishigaki,Job,Engineer
+Job_pattern_3,Ryoma Ishigaki,Job,Doctor
+Job_pattern_3,Ryoma Ishigaki,Job,Teacher
+Job_pattern_3,Ryoma Ishigaki,Job,Designer
+Job_pattern_3,Ryoma Ishigaki,Job,Lawyer
+Residence_pattern_1,Ryoma Ishigaki,Residence,Sapporo
+Residence_pattern_1,Haruto Yamamoto,Residence,Tokyo
+Residence_pattern_1,Aoi Tanaka,Residence,Nagoya
+Residence_pattern_1,Riku Nakamura,Residence,Osaka
+Residence_pattern_1,Saki Kuroda,Residence,Fukuoka
+Residence_pattern_2,Ryoma Ishigaki,Residence,Sapporo
+Residence_pattern_2,Ryoma Ishigaki,Residence,Tokyo
+Residence_pattern_2,Ryoma Ishigaki,Residence,Nagoya
+Residence_pattern_2,Ryoma Ishigaki,Residence,Osaka
+Residence_pattern_2,Ryoma Ishigaki,Residence,Fukuoka
+Residence_pattern_3,Ryoma Ishigaki,Residence,Sapporo
+Residence_pattern_3,Ryoma Ishigaki,Residence,Tokyo
+Residence_pattern_3,Ryoma Ishigaki,Residence,Nagoya
+Residence_pattern_3,Ryoma Ishigaki,Residence,Osaka
+Residence_pattern_3,Ryoma Ishigaki,Residence,Fukuoka
+Phone Plan_pattern_1,Ryoma Ishigaki,Phone Plan,Basic
+Phone Plan_pattern_1,Haruto Yamamoto,Phone Plan,Standard
+Phone Plan_pattern_1,Aoi Tanaka,Phone Plan,Premium
+Phone Plan_pattern_1,Riku Nakamura,Phone Plan,Family
+Phone Plan_pattern_1,Saki Kuroda,Phone Plan,Unlimited
+Phone Plan_pattern_2,Ryoma Ishigaki,Phone Plan,Basic
+Phone Plan_pattern_2,Ryoma Ishigaki,Phone Plan,Standard
+Phone Plan_pattern_2,Ryoma Ishigaki,Phone Plan,Premium
+Phone Plan_pattern_2,Ryoma Ishigaki,Phone Plan,Family
+Phone Plan_pattern_2,Ryoma Ishigaki,Phone Plan,Unlimited
+Phone Plan_pattern_3,Ryoma Ishigaki,Phone Plan,Basic
+Phone Plan_pattern_3,Ryoma Ishigaki,Phone Plan,Standard
+Phone Plan_pattern_3,Ryoma Ishigaki,Phone Plan,Premium
+Phone Plan_pattern_3,Ryoma Ishigaki,Phone Plan,Family
+Phone Plan_pattern_3,Ryoma Ishigaki,Phone Plan,Unlimited
+Position_pattern_1,Ryoma Ishigaki,Position,Manager
+Position_pattern_1,Haruto Yamamoto,Position,Director
+Position_pattern_1,Aoi Tanaka,Position,CEO
+Position_pattern_1,Riku Nakamura,Position,Intern
+Position_pattern_1,Saki Kuroda,Position,Supervisor
+Position_pattern_2,Ryoma Ishigaki,Position,Manager
+Position_pattern_2,Ryoma Ishigaki,Position,Director
+Position_pattern_2,Ryoma Ishigaki,Position,CEO
+Position_pattern_2,Ryoma Ishigaki,Position,Intern
+Position_pattern_2,Ryoma Ishigaki,Position,Supervisor
+Position_pattern_3,Ryoma Ishigaki,Position,Manager
+Position_pattern_3,Ryoma Ishigaki,Position,Director
+Position_pattern_3,Ryoma Ishigaki,Position,CEO
+Position_pattern_3,Ryoma Ishigaki,Position,Intern
+Position_pattern_3,Ryoma Ishigaki,Position,Supervisor
